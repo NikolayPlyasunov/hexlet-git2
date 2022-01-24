@@ -1,1 +1,1 @@
-# hexlet-git2
+Hello, Hexlet!
